@@ -1,0 +1,16 @@
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.exe
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.deps.json
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.runtimeconfig.json
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.runtimeconfig.dev.json
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.dll
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\ref\Day 4 Task 1.dll
+D:\Projects\Advent of Code 2021\Day 4\bin\Debug\net5.0\Day 4 Task 1.pdb
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.AssemblyInfoInputs.cache
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.AssemblyInfo.cs
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.dll
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\ref\Day 4 Task 1.dll
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.pdb
+D:\Projects\Advent of Code 2021\Day 4\obj\Debug\net5.0\Day 4 Task 1.genruntimeconfig.cache
